@@ -2,4 +2,4 @@ A wordpress theme file for a responsive mobile view
 
 smartqc.zip - mobile responsive view for frontend part
 taxpolice.zip - backend part 
-smartqc1.zip - website view for frontend
+impact.zip - website view for frontend
